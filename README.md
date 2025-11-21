@@ -45,9 +45,9 @@ food quality, entertainment, seat comfort, cabin crew service, and more.
 
 ### 📊 Dynamic Visualizations
 
-**Average Rating by Month** – reveals seasonal trends in customer satisfaction. 
-**Average Rating by Country** – compares customer experience across nationalities. 
-**Average Rating by Aircraft Type** – analyzes how aircraft models impact the chosen metric. 
+**Average Rating by Month** – reveals seasonal trends in customer satisfaction.                            
+**Average Rating by Country** – compares customer experience across nationalities.                               
+**Average Rating by Aircraft Type** – analyzes how aircraft models impact the chosen metric.      
 
 **All visuals act as clickable filters for deeper insights.**
 
